@@ -100,7 +100,7 @@ function init() {
   //composer.addPass( new THREE.RenderPass( scene, camera ) );
   var renderPass = new THREE.RenderPass(scene, camera);
 
-  rgbPass = new THREE.ShaderPass( THREE.ColorifyShader);
+  rgbPass = new THREE.ShaderPass( THREE.ColorCorrectionShader);
   //rgbPass.uniforms[ 'amount' ].value = 0.005;
   //rgbPass.renderToScreen = true;
   composer.addPass ( renderPass );
