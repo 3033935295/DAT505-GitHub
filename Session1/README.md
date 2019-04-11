@@ -1,3 +1,5 @@
 # DAT505-GitHub
-Name：TIAN,CHENGYUE
-Student number:B161006085
+
+![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/2.png)
+01-TextX
+Three geometries rotate together.They have different materials and colors.
