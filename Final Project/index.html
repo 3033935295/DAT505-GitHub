@@ -18,18 +18,23 @@
       border-radius: 5px;
     }
   </style>
+  <!-- 引入Threejs三维引擎 -->
   <script src="./build/three.min.js"></script>
+  <!-- 引入threejs的相机空间，对场景进行缩放、旋转操作 -->
   <script src="./build/OrbitControls.js"></script>
+  <!-- 引入前端框架Vuejs -->
   <script src="./build/vue.min.js"></script>
 </head>
 <body>
   <div id="app" style="position:absolute;">
+    <!-- 前端弹窗界面，显示省份和GDP信息 -->
     <div id="tan" style="" v-if="bool" :style="{left:x+'px',top:y+'px'}">
       <div>省份&nbsp;:&nbsp;&nbsp;&nbsp;{{ name }}</div>
       <br>
       <div>GDP&nbsp;:&nbsp;&nbsp;&nbsp;{{ gdp }}</div>
     </div>
   </div>
+  <!-- JavaScript程序文件 -->
   <script src="./js/index.js"></script>
   <script>
 
