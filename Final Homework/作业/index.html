@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>中国各省GDP数据可视化</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    #tan {
+      position: absolute;
+      z-index: 102;
+      color: #00aeef;
+      background: rgba(45, 45, 45, 0.6);
+      padding: 20px;
+      border-radius: 5px;
+    }
+  </style>
+  <script src="./build/three.min.js"></script>
+  <script src="./build/OrbitControls.js"></script>
+  <script src="./build/vue.min.js"></script>
+</head>
+<body>
+  <div id="app" style="position:absolute;">
+    <div id="tan" style="" v-if="bool" :style="{left:x+'px',top:y+'px'}">
+      <div>省份&nbsp;:&nbsp;&nbsp;&nbsp;{{ name }}</div>
+      <br>
+      <div>GDP&nbsp;:&nbsp;&nbsp;&nbsp;{{ gdp }}</div>
+    </div>
+  </div>
+  <script src="./js/index.js"></script>
+  <script>
+
+  </script>
+</body>
+
+</html>
