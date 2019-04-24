@@ -14,4 +14,7 @@
 
 ## code
 
-### The GDP data is from the Official Website of the National Bureau of Statistics of China (http://www.stats.gov.cn/).And the map's data is from this web(https://download.csdn.net/download/xujialei1234/10390066).
+### The GDP data is from the Official Website of the National Bureau of Statistics of China (http://www.stats.gov.cn/).
+![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/18.png)
+### And the map's data is from this web(https://download.csdn.net/download/xujialei1234/10390066).
+![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/19.png)
