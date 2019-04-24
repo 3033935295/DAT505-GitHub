@@ -1,4 +1,5 @@
 # DAT505-GitHub
+## Assignment Link: https://github.com/3033935295/DAT505-GitHub
 ### Name：TIAN,CHENGYUE
 ### Student number:B161006085
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/17.png)
@@ -19,6 +20,6 @@
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/19.png)
 ### And the map's data is from this web(https://download.csdn.net/download/xujialei1234/10390066).
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/20.png)
-
+### From china.json, some discrete point coordinates are extracted from the outline of the border lines of each province. On the top is the outline of the province drawn by the grid model, and the boundary between the provinces is drawn by the line model Line below.
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/21.png)
 ### First, it introduced a database of GDP, and set the height of the geometry to be higher when the data number is higher. Create a geometry at the same time, and then add a texture(texture2).
