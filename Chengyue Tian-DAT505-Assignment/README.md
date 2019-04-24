@@ -19,4 +19,6 @@
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/19.png)
 ### And the map's data is from this web(https://download.csdn.net/download/xujialei1234/10390066).
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/20.png)
+
 ![Alt text](https://github.com/3033935295/DAT505-GitHub/blob/master/image/21.png)
+### First, it introduced a database of GDP, and set the height of the geometry to be higher when the data number is higher. Create a geometry at the same time, and then add a texture(texture2).
